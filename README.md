@@ -4,6 +4,7 @@ A React application riddled with security vulnerabilities so you can learn how n
 
 ## How to run me?
 
+
 ### Local installation
 
 For a local installation, make sure you have the following dependencies installed:
