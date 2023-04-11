@@ -9,6 +9,7 @@ A React application riddled with security vulnerabilities so you can learn how n
 
 For a local installation, make sure you have the following dependencies installed:
 1. Node.js v14 (other versions don't work)
+
 2. npm
 
 ### Docker installation
